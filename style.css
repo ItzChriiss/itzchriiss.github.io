@@ -3,7 +3,8 @@
 body {
   font-family: 'Lucida', monospace;
   font-size: 18px;
-  margin: 0;
+  margin-right: 40px;
+  margin-left: 40px;
   padding: 0;
   background-color: #eae8dc;
 }
@@ -26,7 +27,7 @@ h1 {
 
 h2 {
   ont-family: 'Andale Mono', monospace;
-  font-size: 38px;
+  font-size: 40px;
   color: #333333;
   text-align: center;
 }
